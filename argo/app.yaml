@@ -7,7 +7,7 @@ spec:
   destination:
     namespace: spring-petclinic
     server: https://kubernetes.default.svc
-  project: spring-petclinic
+  project: default
   source:
     directory:
       recurse: true
